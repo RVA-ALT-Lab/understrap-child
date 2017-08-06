@@ -1,4 +1,5 @@
-$vcu-gold:						#FFBA00;
-$vcu-gray:   					#63656A;
-$vcu-orange: 					#E57200;
-$vcu-aqua:						#00B3BE;
+//float menu items to the right
+#navbarNavDropdown {
+   -webkit-justify-content: flex-end;
+   justify-content: flex-end;
+}
